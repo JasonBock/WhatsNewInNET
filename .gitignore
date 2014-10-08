@@ -220,6 +220,3 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-
-#Don't add comparison files
-*.xml
